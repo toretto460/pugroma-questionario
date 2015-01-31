@@ -9,7 +9,6 @@
 - Altro
 
 ## PHP
-### Come ti consideri come sviluppatore PHP?
 
 ### Quanti anni di esperienza professionale hai come sviluppatore PHP?
 - non ho esperienza in PHP
