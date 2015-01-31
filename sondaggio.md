@@ -7,3 +7,58 @@
 - Mailing list
 - Passaparola
 - Altro
+
+## PHP
+### Come ti consideri come sviluppatore PHP?
+
+### Quanti anni di esperienza professionale hai come sviluppatore PHP?
+
+### Quale versione di PHP utilizzi?
+- < 5
+- 5.3.x
+- 5.4.x
+- 5.5.x
+- 5.6.x
+
+### Utilizzi un CMS?
+- Wordpress
+- Drupal 5/6/7
+- Drupal 8
+- Joomla 
+- altro
+
+### Utilizzi un framework?
+- Symfony 2
+- Zend 1
+- Zend 2
+- Laravel
+- altro
+
+## Il tuo lavoro
+### Che tipo di contratto hai?
+- a tempo inderminato
+- a tempo determinato
+- a progetto (co.co.co/co.co.pro)
+- partita IVA
+
+### Qual'è il tuo compenso lordo annuo in €?
+(Per dipendenti)
+- <10k
+- >=10k - <15k
+- >=15k - <20k
+- >=20k - <25k
+- >=20k - <25k
+- >=25k - <30k
+- >=30k - <35k
+- >=35k
+
+### Qual'è la tua tariffa giornaliera=?
+(Per freelance)
+- <150
+- >=150 - <200
+- >=200 - <250
+- >=250 - <300
+- >=300 - <350
+- >=350
+
+
