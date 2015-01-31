@@ -12,6 +12,10 @@
 ### Come ti consideri come sviluppatore PHP?
 
 ### Quanti anni di esperienza professionale hai come sviluppatore PHP?
+- non ho esperienza in PHP
+- tra 1 e 3
+- tra 3 e 5
+- più di 5
 
 ### Quale versione di PHP utilizzi?
 - < 5
