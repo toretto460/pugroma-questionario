@@ -31,11 +31,13 @@
 - altro
 
 ### Utilizzi un framework?
-- Symfony 2
-- Zend 1
-- Zend 2
-- Laravel
-- altro
+- [ ] Symfony 2
+- [ ] Zend 1
+- [ ] Zend 2
+- [ ] Laravel
+- [ ] CakePHP
+- [ ] Yii
+- [ ] altro
 
 ### Quanto è profonda la tua conoscenza di ... [Esprimi un voto da 1 a 5]
 - Test Driven Development
@@ -61,6 +63,28 @@
 - a tempo determinato
 - a progetto (co.co.co/co.co.pro)
 - partita IVA
+
+### Che tipo di lavoro svolgi ?
+- lavori tipicamente su un'unico prodotto
+- ogni tot tempo parte un nuovo progetto 
+
+### Da quante persone è composto il tuo team
+- sono solo
+- da 1 a 3
+- da 3 a 5
+- da 5 a 10
+- piu di 10
+
+### Hai un ruolo decisionale ( CTO/Team Leader/Capo progetto ) per il quale sei tu a poter scegliere strumenti di sviluppo o scelte progettuali
+- si 
+- no
+
+### Per i tuoi progetti quale di questi strumenti utilizzi come Source Management Control:
+- git
+- svn
+- mercurial
+- niente
+- altro
 
 ### Qual'è il tuo compenso lordo annuo in €?
 (Per dipendenti)
