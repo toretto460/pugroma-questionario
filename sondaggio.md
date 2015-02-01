@@ -37,6 +37,24 @@
 - Laravel
 - altro
 
+### Quanto è profonda la tua conoscenza di ... [Esprimi un voto da 1 a 5]
+- Test Driven Development
+- Design Patterns
+- Composer
+- PSR-X
+- git
+- svn
+- Vagrant
+- Docker
+
+### Oltre a PHP utilizzi di frequente anche 
+- [ ] Javascript
+- [ ] Ruby
+- [ ] Python
+- [ ] Bash
+- [ ] C#
+- [ ] Java 
+
 ## Il tuo lavoro
 ### Che tipo di contratto hai?
 - a tempo inderminato
