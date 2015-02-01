@@ -82,4 +82,30 @@
 - >=300 - <350
 - >=350
 
+## Un po' di te
+### Quanti anni hai?
+- <18
+- >=18 - <25
+- >=25 - <30
+- >=30 - <35
+- >=35
+
+### Quanti programmatori PHP conosci?
+Indica il numero di programmatori PHP con cui interagisci con regolarità
+
+- ==0
+- >=1 - <2
+- >=2 - <3
+- >=3 - <5
+- >=5 - <10
+- >=10
+
+### Dei programmatori PHP che conosci, quanti ne consideri amici?
+- ==0
+- >=1 - <2
+- >=2 - <3
+- >=3 - <5
+- >=5 - <10
+- >=10
+
 
