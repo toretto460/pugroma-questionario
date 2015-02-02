@@ -139,7 +139,7 @@ Indica il numero di programmatori PHP con cui interagisci con regolarità
 - Vim
 - altro
 
-### SO?
+### Quale Sistema Operativo utilizzi?
 - Osx
 - Linux
 - Win
