@@ -132,4 +132,26 @@ Indica il numero di programmatori PHP con cui interagisci con regolarità
 - >=5 - <10
 - >=10
 
+### Qual'e' il tuo IDE preferito?
+- PhpStorm
+- NetBeans
+- Eclipse
+- Vim
+- altro
 
+### SO?
+- Osx
+- Linux
+- Win
+
+### Da quanti anni frequenti il pug-roma?
+- meno di 6 mesi
+- 1 anno
+- 2 anni
+- >=3 anni
+
+### Come hai conosciuto il pug-roma?
+- da un amico
+- da un collega
+- social network
+- google
