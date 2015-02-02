@@ -157,18 +157,18 @@ Indica il numero di programmatori PHP con cui interagisci con regolarità
 - google
 
 ### Partecipi ad altri User Group ?
-- [] RomaJs
-- [] golangit
-- [] Jug
-- [] Aug
-- [] Altro
-- [] No
+- [ ] RomaJs
+- [ ] golangit
+- [ ] Jug
+- [ ] Aug
+- [ ] Altro
+- [ ] No
 
 ### Partecipi o hai partecipato in passato a conferenze o eventi legati allo sviluppo software ?
-- [] PhpDay
-- [] jsDay
-- [] Codemotion
-- [] SymfonyDay
-- [] ZfDay
-- [] Altro
-- [] No, mai partecipato
+- [ ] PhpDay
+- [ ] jsDay
+- [ ] Codemotion
+- [ ] SymfonyDay
+- [ ] ZfDay
+- [ ] Altro
+- [ ] No, mai partecipato
